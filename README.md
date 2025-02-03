@@ -21,3 +21,8 @@ Resolving these issues is not straightforward, as each individual's computer ope
 - Desktop Window Manager high cpu
 - Microsoft Compatibility Telemetry high cpu
 - ...
+
+## Tips
+To keep your computer clean and enhance security, you should refer to a series of basic articles on __[Operational Security (OPSEC)](https://github.com/2x7EQ13/Windows-OPSEC-Training)__.
+
+__[@TwoSevenOneT](https://x.com/TwoSevenOneT)__
