@@ -15,6 +15,10 @@ Resolving these issues is not straightforward, as each individual's computer ope
 3. The program may appear to be frozen during the __"Log Time"__. Once the logs have been collected, select the process of interest or leave it on __"Auto Detect"__. Then click __"Analyze"__.
 4. __"100 CPU"__ will provide information on the activity of the program of interest that is causing high processor usage. Alternatively, with __"Auto Detect"__ it will automatically identify which program is leading to high CPU usage and the reasons behind it.
 
+### Details on how to use it and practical use cases:
+
+__[100 CPU: Silver Bullet for High Processor Usage Issues](https://www.zerosalarium.com/2025/01/100%20CPU%20High%20Processor%20Usage%20Silver%20Bullet.html)__
+
 ## This tool will assist in troubleshooting some common cases of high CPU usage such as:
 - Antimalware Service Executable high memory
 - WMI Provider Host
